@@ -47,7 +47,7 @@ Introduction ([PDF - 1.8MB]({{< baseurl >}}/resources/mit8_21s09_lec01))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Units and scales of energy use (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit8_21s09_lec02))
+Units and scales of energy use ([PDF - 1.1MB]({{< baseurl >}}/resources/mit8_21s09_lec02))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ Heat energy: Conversion between heat and mechanical energy ([PDF ‑ 2.9MB]({{
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Electromagnetic energy: Storage, conversion, transmission and radiation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.7MB]({{< baseurl >}}/resources/mit8_21s09_lec05))
+Electromagnetic energy: Storage, conversion, transmission and radiation ([PDF - 7.7MB]({{< baseurl >}}/resources/mit8_21s09_lec05))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ Electromagnetic energy: Storage, conversion, transmission and radiation (![This
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum mechanics I: Intro to the quantum, energy quantization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_21s09_lec06))
+Quantum mechanics I: Intro to the quantum, energy quantization ([PDF]({{< baseurl >}}/resources/mit8_21s09_lec06))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ Quantum mechanics I: Intro to the quantum, energy quantization (![This resource 
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Energy in chemical systems and processes, flow of CO2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.0MB]({{< baseurl >}}/resources/mit8_21s09_lec07))
+Energy in chemical systems and processes, flow of CO2 ([PDF - 4.0MB]({{< baseurl >}}/resources/mit8_21s09_lec07))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ Energy in chemical systems and processes, flow of CO2 (![This resource may not 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Entropy and temperature (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_21s09_lec08))
+Entropy and temperature ([PDF]({{< baseurl >}}/resources/mit8_21s09_lec08))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +110,7 @@ Entropy and temperature (![This resource may not render correctly in a screen re
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Heat engines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_21s09_lec09))
+Heat engines ([PDF]({{< baseurl >}}/resources/mit8_21s09_lec09))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +119,7 @@ Heat engines (![This resource may not render correctly in a screen reader.](/ima
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Conversion I: Phase change energy conversion, refrigeration and heat pumps (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.5MB]({{< baseurl >}}/resources/mit8_21s09_lec10))
+Conversion I: Phase change energy conversion, refrigeration and heat pumps ([PDF - 3.5MB]({{< baseurl >}}/resources/mit8_21s09_lec10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +128,7 @@ Conversion I: Phase change energy conversion, refrigeration and heat pumps (![T
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Internal combustion engines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit8_21s09_lec11))
+Internal combustion engines ([PDF]({{< baseurl >}}/resources/mit8_21s09_lec11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +137,7 @@ Internal combustion engines (![This resource may not render correctly in a scree
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Conversion II: Steam and gas power cycles, the physics of power plants (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB]({{< baseurl >}}/resources/mit8_21s09_lec12))
+Conversion II: Steam and gas power cycles, the physics of power plants ([PDF - 2.9MB]({{< baseurl >}}/resources/mit8_21s09_lec12))
 {{< tdclose >}}
 
 {{< trclose >}}
